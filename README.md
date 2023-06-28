@@ -1,4 +1,5 @@
 # PlaneSprint-Team-33
+Team Pixel Pioneers
 
 # CBITShop - MERN Stack E-commerce Web App
 
