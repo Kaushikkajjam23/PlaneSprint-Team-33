@@ -3,7 +3,7 @@ Team Pixel Pioneers
 
 # CBITShop - MERN Stack E-commerce Web App
 
-CBITShop is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+CBITShop is a full-stack web application built using the **MERN** (MongoDB, Express.js, React.js, Node.js) stack.
 
 ## Features
 
